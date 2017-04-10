@@ -1,0 +1,37 @@
+.qtip-wiki{
+    max-width: 385px;
+}
+
+.qtip-wiki p{
+    margin: 0 0 6px;
+}
+
+.qtip-wiki h1{
+    font-size: 20px;
+    line-height: 1.1;
+    margin: 0 0 5px;
+}
+
+.qtip-wiki img{
+    float: left;
+    margin: 10px 10px 10px 0;
+}
+
+.qtip-wiki .info{
+    overflow: hidden;
+}
+
+.qtip-wiki p.note{
+    font-weight: 700;
+}
+
+a.justweet_button {
+	border-radius: 3px;
+	background: #27ae60;
+	color: fff;
+	text-transform: uppercase;
+	padding: 8px 14px 8px 14px;
+	box-shadow: 0 1px 2px rgba(0, 0, 0, 0.3), inset 0 1px 0 rgba(255, 255, 255, 0.5);
+	margin: 10px 5px 10px 2px;
+	font-family: 'Droid Sans', Arial, Verdana, sans-serif;
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Justweet",  
+  "version": "0.0.1",
+  "manifest_version": 2,
+  "description": "Initial test of twitter-verification plugin",
+  "content_scripts": [
+    {
+      "matches": [ "http://*/*", "https://*/*" ],
+      "js": [ "jquery-3.2.0.js", "content_script.js", "jquery.qtip.js", "alertifyjs/alertify.js" ],
+	  "css": ["jquery.qtip.css", "alertifyjs/css/alertify.css", "justweet.css"]
+    }
+  ]
+}

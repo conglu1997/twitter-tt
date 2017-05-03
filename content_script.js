@@ -42,7 +42,6 @@
 	});
 	
 	function analysis_display (tweet_text, score, explanation_list) {
-		explanation_list = ["Reported username", "Misleading claims"]
 		var txt1 = `<div class="analysistext">
 					<img src="`
 					

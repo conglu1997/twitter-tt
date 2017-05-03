@@ -57,6 +57,11 @@
 				
 		var img_src = ""
 		
+		// Return error if one thrown.
+		if (score == -1) {
+			return explanation_list;
+		}
+		
 		// Display a different picture based on the trustworthiness.
 		switch(score) {
 			case 1:

@@ -50,7 +50,7 @@
 						
 		var txt2 = `</i></p>`
 		
-		var txt3 = `<p class="note">Further Analysis: <a href="http://thejustweetleague.github.io/">Justweet Website</a></p>
+		var txt3 = `<p class="note">Further Analysis: <a href="http://justweetproject.herokuapp.com/">Justweet Website</a></p>
 						<div class="clear"></div>
 					</div>
 				</div>`
